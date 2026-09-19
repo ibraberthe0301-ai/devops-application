@@ -1,1 +1,1 @@
-# Application DevOps - Version de Kolo 
+# Application DevOps - Version Validee par Ibrahim et Kolo 
